@@ -4,7 +4,7 @@ This Bash script automates the process of installing and configuring a basic Ngi
 
 ---
 
-## 🚀 Features
+## Features
 
 - Installs and configures Nginx
 - Creates a custom web root for your domain
